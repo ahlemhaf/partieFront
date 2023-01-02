@@ -1,0 +1,88 @@
+.App{
+    height: 100vh;
+  
+  }
+  .section-register{
+  
+    background-size:cover;
+    width: 800px;
+    height: auto;
+    background-repeat: no-repeat;
+    border-radius: 25px;
+   
+  }
+  .register{
+    background-color: #3b909e;
+   padding: 10px;
+  }
+  .register-form{
+  
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px;
+   
+  }
+  h1 {
+    text-align: center;
+    font-style: italic;
+   color: rgb(52, 11, 200);
+  
+  }
+  .text{
+  font-size: large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .section-register-2{
+   
+    background-size:cover;
+    width:600px;
+    background-repeat: no-repeat;
+    border-radius: 25px;
+    padding: 200px;
+    margin: 200px;
+   
+    
+  }
+  
+  .register-2{
+    background-color: #3b909e;
+    height: 100vh;
+    
+  }
+  .register-form-2{
+    padding: 100px;
+    margin: 100px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px;
+  
+    
+  }
+  
+  .App-2 {
+  
+    height: 100vmin;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ff4e0e;
+  }
+  
+  .card {
+    background-color: rgba(121, 119, 119, 0.231);
+    height: 500px;
+  }
+  
+  .title {
+    text-align: center;
+    color:rgb(242, 237, 237);
+   
+  }
+  #fx {
+    margin: auto;
+    padding-top: 80px;
+    width: 500px;
+  }
+  .p1{
+    color: red;
+    font-size: x-large;
+    text-align:center;
+  
+  }
